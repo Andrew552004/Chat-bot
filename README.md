@@ -29,12 +29,29 @@ The goal of this project is to develop a personal virtual assistant that leverag
 ## How to Use
 
 Follow these steps to set up and use the project:
+1. **Make sure you have poetry installed***
 
-1. **Activate the virtual environment**:
+2. **Copy this for create the virtual enviroments**
+   ```bash
+   python -m venv chat_bot
+   ```
+3. **Activate the virtual environment**:
    ```bash
    chat_bot\Scripts\Activate.ps1
    ```
-2. **To run the code in the terminal run the following script**
-  ```bash
+4. **Put this for generate the poetry.lock**
+   ```bash
+   poetry lock
+   ```
+5. **Put this for install the dependencies in the enviroment**
+   ```bash
+   poetry install
+   ```
+6. **To run the code in the terminal run the following script**
+   ```bash
    python .\your_assistant\text_processing.py
+   ```
+7. **To use the data container documents, you can find them in the following Drive link** 
+   ```bash
+   https://drive.google.com/drive/folders/1cczSAUuN_z9bBLNMGH78lOH9XInLwVQE?usp=drive_link
    ```
