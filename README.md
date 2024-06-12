@@ -6,6 +6,10 @@ This project creates a conversational assistant that can answer questions based 
 
 The goal of this project is to develop a personal virtual assistant that leverages a knowledge base created from PDF documents. The assistant can handle questions by retrieving relevant information from the PDFs and generating responses using an LLM. Key concepts include system analysis, knowledge management, and the integration of various open-source tools to achieve a coherent, interactive assistant.
 
+## Poster
+<p align="center">
+<img src="https://github.com/Andrew552004/project-docker/blob/main/DmKknh-4T3Wo3WDpfARaOQ.webp" alt="FastAPI logo" width="600">
+</p>
 ## System Description
 
 1. **PDF Data Loading**:
