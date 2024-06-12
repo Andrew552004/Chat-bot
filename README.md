@@ -9,7 +9,6 @@ The goal of this project is to develop a personal virtual assistant that leverag
 ## Poster
 <p align="center">
 <img src="https://github.com/Andrew552004/project-docker/blob/main/DmKknh-4T3Wo3WDpfARaOQ.webp" alt="FastAPI logo" width="600">
-   created with Ideogram.ai: https://ideogram.ai/t/explore
 </p>
 created with Ideogram.ai: https://ideogram.ai/t/explore
 ## System Description
