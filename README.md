@@ -12,7 +12,8 @@ The goal of this project is to develop a personal virtual assistant that leverag
 </p>
 <p align="center">
   <a href="https://ideogram.ai/t/explore">Created with Ideogram.ai</a>
-</p>
+</p>  
+  
 ## System Description
 
 1. **PDF Data Loading**:
